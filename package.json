@@ -20,6 +20,7 @@
     "@wdio/mocha-framework": "^8.3.0",
     "@wdio/spec-reporter": "^8.3.0",
     "appium-uiautomator2-driver": "^2.12.3",
+    "chai": "^4.3.7",
     "wdio-wait-for": "^3.0.2"
   }
 }
